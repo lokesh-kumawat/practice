@@ -1,0 +1,32 @@
+Java script :- It is used in Frontend but recently used in Backend.
+               It is used to create dynamic content on web page.
+               It is a (Frontend) client side scripting.
+
+React :-  React is JavaScript library. 
+          It is developed by Facebook. 
+          It is a Frontend (client side) language. 
+
+JSX(JavaScript XML), it is a syntax extension for javascript.
+
+Angular :- Angular is Frontend Web application Framework. 
+           It is developed by Google.                                                  
+           It is used for building single-page application withiout reloading the entire page.
+
+MERN :- MongoDB   = MongoDB is a database used to store data(in json formate).
+
+        Express.js = It is a Node.Js Framework. 
+                     It is used in backend development(server-side).
+
+        React      = .............!
+
+        Node.js    = Node js is a runtime environment to that allow javascript code to be execute on server-side.
+                     It is used in backend(server-side).
+                     It is build in V8 engine.
+
+
+ FireBase = Firebase is a platform developed by Google that helps developers build and manage web and mobile applications. It provides a variety of tools and services             that make it easier to develop apps quickly and efficiently. Here’s a simple breakdown of some key features:
+
+
+
+ATC check on Resume
+
