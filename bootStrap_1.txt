@@ -1,0 +1,102 @@
+                                                                              Bootstrap
+
+
+ 12/27/2024  
+
+  .boorStrap :- this is a css framework. the main use of bootstrap is mobile first approach(first moblice ke liye create kar ta hn). framework vo hota hai jis me phela                 se beni bani class and fuction (chizo) ko hm use kar te hn.
+         
+  
+   //**************************************************************//        
+  . Breakpoints :- Breakpoints use to define ke hameri screen ka size kya hoga. (width manage kar ta hn)
+
+                     Breakpoint	     Class infix	 Dimensions
+                     **********      ************        **********
+                  Extra extra large	 xxl	        ≥1400px(min-1400px - max 1400px ke uper)
+                     Extra large	 xl	        ≥1200px (min 1200px - max 1399px)
+                        Large	         lg	        ≥992px(min 992px - max 1199px)
+                        Medium	         md	        ≥768px(min 768px - max 991px)
+                       Small	         sm	        ≥576px(min 576px - max 767px)
+                     Extra small	None	        <576px
+
+
+
+   //****************************************************************//
+  . container => A fixed-width container that adjusts its size depending on the screen size (e.g., smaller on phones, larger on desktops)., and there are three container                  classes available:
+
+                     1  .container => A fixed-width container that adjusts its size depending on the screen size (e.g., smaller on phones, larger on desktops).
+                    
+                     2  .container-fluid => A full-width container that spans the entire width of the screen, regardless of screen size.
+            
+                     3  .container-{breakpoint} => A container with a fixed width up to a specific breakpoint (e.g., .container-sm stays fixed at a smaller width until                                                   it reaches larger screen sizes).                      
+                    
+                    
+                          Extra small   Small   Medium  Large   X-Large  XX-Large
+                             <576px     ≥576px  ≥768px  ≥992px  ≥1200px  ≥1400px
+                          ******************************************************               
+            .container	        100%    540px	720px	960px	1140px	1320px
+            .container-sm	100%	540px	720px	960px	1140px	1320px
+            .container-md	100%	100%	720px	960px	1140px	1320px
+            .container-lg	100%	100%	100%	960px	1140px	1320px
+            .container-xl	100%	100%	100%	100%	1140px	1320px
+            .container-xxl	100%	100%	100%	100%	100%	1320px
+            .container-fluid	100%	100%	100%	100%	100%	100%
+
+
+
+
+ //**********************************************************//
+ .Grid => it is used for column dividation. or ye 12 column (12-col) ke layout par kaam kar ta hn.
+
+
+  //********************************************************//
+   Columns  :- used for modify columns with a handful of options for alignment, ordering, and offsetting thanks to our flexbox grid system.
+              
+             Alignment ==> Use flexbox alignment utilities to vertically and horizontally align columns.
+
+            1. Vertical alignment :- Change the vertical alignment with any of the responsive align-items-start classes. Or, change the alignment of each column                                      individually with any of the responsive .align-self-* classes. 
+
+
+
+
+  //**********************************************************//
+   Gutters :- Gutters are the padding between your columns,
+      
+               ===> Horizontal gutters  :-   .gx-* classes can be used to control the horizontal gutter widths.
+               
+               ===> Vertical gutters  :-    .gy-* classes can be used to control the vertical gutter widths within a row when columns wrap to new lines.
+ 
+               ===> Horizontal & vertical gutters :- Use .g-* classes to control the horizontal and vertical grid gutters.
+
+
+  //***************************************************************//
+   .Utility classes :-
+            1. margin :- mx ==> xx par space ke liye
+                         my ==> yx par space ke liye
+                         mt =>margin-top , mb => margin-bottom , ms => margin start, me => margin-end
+                          m => for all side.
+                   margin rem  me chal ta hn 1rem me 16 px hote hn.
+        m-0 => 0px , m-1 :- 0.25rem => 4px, m-2:- .5rem => 8px, m-3 => 1rem => 16px, m-4 :- 1.5rem =>24px , m-5 :- 3rem => 48px. 
+ 
+
+             2. padding :-  p => all directon
+                            px => left-right
+                            py => top/bottom
+                            pt => top , ps =>start
+
+
+    . Form :- Sizing :- Set heights using classes like .form-control-lg and .form-control-sm.
+
+
+   
+   //*****************************************************//
+   . Carousel:-
+            A slideshow component for cycling through elements—images or slides of text—like a carousel.
+
+
+
+
+
+
+ 
+                    
+                 

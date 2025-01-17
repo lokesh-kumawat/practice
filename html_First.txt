@@ -1,0 +1,83 @@
+                                                                           Internship
+
+ Day = first  12/15/2024
+
+   //************************//
+ . Extension of HTML File = .html is file extension of html file.
+
+
+
+
+ . Why we always write index.html = The file name must be the index.html because it's a default path of our homepage or the root of our website.
+
+
+  //**************************//
+ . HTML => HyperTextMarkupLanguage 
+          --> HyperText = Hyper Text is text which contians links to other texts. it means jab ham kesi text par click kre to vo hame dushera page par redirect kar de.
+          --> MarkupLanguage = MarkupLanguage is way to give instruction to a computer to, how to orginized and display.
+
+
+  //**************************//
+ . Element => Element is combination of Opening tag , Closing tag and Content. 
+              
+              (Opening tag) <p> Some Content </p> (Closing tag)
+
+
+  //**************************//
+ . Attributes => Attributes provides addition information about tags.
+                 <html lang="en"> 
+
+
+  //************************//
+ . HTML Page Structure =>
+
+      1. <!DOCTYPE html>  -->  It is an information to the browser about what document type to expect.
+      2. <html>           -->  Root of an html documet. 
+      3. <head>           -->  Contain information about the page. head tag contain title tag , link , stylesheet, meta tag(information) etc. Meta information SEO ke                                  liye use hoti hn. meta tag ke inside charset, viewport( yeh hamine bta ta hn ke website ke structure different different divece me kesa                                 dhike ge like that phone, tablet, computer etc.
+      4. <body>          -->   The body tag defines the body of html document.
+
+
+   //************************//
+ . Heading tag => The <h1> to <h6> tags create Heading in html. where <h1> is the biggest and most important and <h6> is the smallest and least imporant.
+  
+   Interview Question => 1. How many levels of Heading are available in HTML.
+                         ans => 6.
+                         
+                         2. What happens if you skip heading levels such as from h1 to h3.
+                         ans => skipping heading levels can confuse both users and search engine.its best to maintain a proper hierarchical structure for better                                 accessibility and SEO.
+ 
+                         3. how many h1 tags can be used on a single page.
+                         ans => use only one.
+
+
+
+ . Paragraph tag => <P> tag is used to write paragraph in webpage.
+
+
+
+ . hr and br tag => <hr> tag is used for horizontal line and <br> tag is used for line break. Both tags are non closing tags.
+
+ 
+  
+ . Text formating =>  
+                    1. Bold(b,strong) and italic(i,em(emphasize)) => This is used to write text bold and italic. 
+                    2. underline (u tag) and del tag (for deliting and crossed out).  
+                    3. subscript tag(sub) and superscript tag(sub).
+                    4. pre tag => this tag does not ignore the white spaces and line break.
+                    5. abbr tag => abbrevation tag is used represent an abbreviation, means description.
+                    6. mark tag => used for heighlight or mark the text.
+                    7. small tag => used to write small tag.
+
+
+
+ . Anchor tag (a tag) => Anchor tag is used form one page to another.
+                        
+                        Attributes = 1. href --> for URL.
+                                     2. target --> _blank for new tab, _self by default.
+                        Relative and Absolute url ==> Relative url are relative to the current page URL. Absolute url are complete urls including the protocol                                                      (http/https).
+                        Download => It is used to download something like img, file.
+                        mailto => It is used ot send mail.
+             
+
+
+

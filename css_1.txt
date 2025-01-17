@@ -1,0 +1,46 @@
+                                                                       CSS(Cascading Style Sheet)
+
+
+ 
+   --> CSS is used to define styles for your web pages.
+
+  //*********************************************//
+  . CSS Selector :- It is used for select elements and apply style on elements. 
+
+                    Selector	Example	       Example description
+                     #id	#firstname	Selects the element with id="firstname"
+                     .class	.intro	        Selects all elements with class="intro"
+                       *	*	        Selects all elements
+                     element	 p	        Selects all <p> elements.
+
+                    A pseudo-class selector is used to style a specific state of an element, such as :hover is used to style an element when hovered
+
+
+    //*******************************//
+ .  Three Ways to Insert CSS =>
+
+       1. External CSS --> External styles are defined within the <link> element, inside the <head> section of an HTML page.
+       2. Internal CSS --> The internal style is defined inside the <style> element, inside the head section.
+       3. Inline CSS   --> Inline styles are defined within the "style" attribute of the relevant element.
+  
+
+  //*******************************//
+ . Color =>
+      1. using name :- In CSS, a color can be specified by using a predefined color name.
+      2. RGB value :-  An RGB color value represents RED, GREEN, and BLUE light sources.rgb(255, 0, 0) is displayed as red, because red is set to its highest value                        (255) and the others are set to 0.
+      3.RGBA value :- It is similar to rgb but in this opacity(transparancy and It can take a value from 0.0 - 1.0.) include .
+      4. HEX Value :- A hexadecimal color is specified with: #RRGGBB,  #ff0000.
+
+ 
+  //*****************************//
+ . Background ===>
+    1.Background-image --> background-image ==> To add background image.
+                           background-color ==> To add a background color.
+                           background-position ==> Sets the starting position of a background image (left, right, top, bottom)
+                           background-repeat  ==>  Sets how a background image will be repeated(repeat, no-repeat,repeat-x, repeat-y)
+                           background-attachment ==> Sets whether a background image is fixed or scrolls with the rest of the page(fixed, scroll).
+                           background-size  ==> cover, contain, auto(default), parcentage(50%), lentght(height & width).
+                           CSS background - Shorthand property => background-color, background-image, background-repeat, background-attachment, background-position.
+                                                                  background: #ffffff url("img_tree.png") no-repeat fixed right top;
+
+

@@ -1,0 +1,77 @@
+
+
+ 12/25/2024
+
+  
+
+      //*******************************************************//
+   . Media Query :- for Responsive Web Design.
+                    The @media rule, introduced in CSS2, made it possible to define different style rules for different media types. 
+
+
+
+  
+
+   //************************************************************//
+  . Grid :- The CSS Grid Layout should be used for two-dimensional layout, with rows AND columns.
+
+     ---> CSS Grid Container :- 
+
+            1. row and column => The rows and columns of a grid is defined with the grid-template-rows and the grid-template-columns properties (or the shorthand grid                                  or grid-template properties).
+          
+            2. justify-content Property => 
+
+
+
+
+
+
+
+   //**************************************************************//
+   Transitions :- CSS transitions allows you to change property values smoothly, over a given duration.
+ 
+                    1. transition-property :- specifies which css property should be transitioned.
+                                              transition-property: color, background color.
+
+                    2. transition-duration :- Defines how long the transition should to complete.
+                                              transition-duration:1s;
+
+                    3. transition-timing-function:- specifies the timing curve used for the transition.
+                                                     tranistion-timing-function:ease-in;
+                                                     ease - specifies a transition effect with a slow start, then fast, then end slowly (this is default)
+                                                     linear - specifies a transition effect with the same speed from start to end
+                                                     ease-in - specifies a transition effect with a slow start
+                                                     ease-out - specifies a transition effect with a slow end
+                                                     ease-in-out - specifies a transition effect with a slow start and end.
+
+                     4. transition-delay :- sets a delay before the transition start.
+                                  
+                     //*****shorthand property****//          
+                     5. tranistion :- property,duration,function,delay
+                                      transition: color,1s,ease-in,0.5s ;
+
+
+
+  //***********************************************************************//
+  . Transform :-
+                 Property................
+                   transform:translateX(300px);
+                   transform: translateY(100PX);
+                   scale: 0.5; 
+                   transform: rotate(180deg);
+                   transform: rotate(90deg); */
+                   transform-origin: right;
+                   transform: rotateZ(180deg);
+  
+
+
+
+
+
+
+
+
+
+
+
+

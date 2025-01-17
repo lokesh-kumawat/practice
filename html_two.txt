@@ -1,0 +1,59 @@
+
+ 12/17/2024
+
+
+  //******************//
+ . Image tag(img) => it is used to add image.
+                  
+                    src --> Specifies the path to the image.
+                    alt --> alternate text for image , if the image for some reason cannot display.
+
+
+  //******************//
+ . list tag => There are two type of list tag.
+
+               1. unorderd list (ul tag)
+                  list-style-type attribure...
+                     1.disc = default
+                     2.circle
+                     3.square
+                     4.none
+
+               2. order list(ol tag) 
+                  type attribute =>
+                     1.'1' number
+                     2.'A','a' lower-letter, upper-letter. 
+                     3.'I','i' lower-roman, upper-roman
+                  
+
+  //*****************************//
+. Table tag => Html tables allows to arrange data into row and columns.
+
+              <table> Element = defines an html table, which is used to organize data into rows and columns.
+              <tbody> Element = Groups the main content (data rows) of an Html table.
+              <thead> Element = Groups the header content(table heading) of an HTML table.
+              <th> Element = defines a header cell within a table.
+              <td> Element = Represent a data cell within an html table.
+              <tr> Element = defines a row within an html table.
+
+
+
+   //************//
+ . iframe tag = An HTML iframe is used to display a web page within a web page or video.
+                src Attriute = for url.
+                title Attribute = for description.
+
+
+
+  //********************//
+ . Audio tag => To play an audio file in HTML.
+              
+               1. Control Attribute => The controls attribute adds audio controls, like play, pause, and volume.
+               2. Source => The source element allows you to specify alternative audio files which the browser may choose from.
+
+ 
+   //******************//
+  . video => used ot display video red from w3school
+
+
+

@@ -1,0 +1,44 @@
+ 
+  12/20/2024
+
+  
+  . color property :- The border property is used to create a border around an element. all information in pdf.
+ 
+
+  . margin :- CSS Margins are used to create space around outer part of an element.
+              
+              ==> You can set margin for individual sides using properties margin-bottom, margin-top, margin-left and margin-right(clock wise).
+
+
+  . padding :- In CSS, padding is a property that is used to create additional spacing inside the boundary of an element.
+
+
+  . outline :-  An outline is a line drawn outside the element's border.
+
+
+  . unites :- 1. Absoulte unites ==> absolute unites mtlb jo h vo h , screen ke according change nhi hota , fixed hota hn [ px, inches(in), points(pt)].
+              2. relative unites ==> ye screen ke according change ho ja te hn. [em, root em(rem), percentage(%)].
+                                   1px = 6.25% , 100% =16px
+                                   16px = 1em ( ye value parents ke hisab se change kar ta hn) 
+                                   rem hn jo root element (html) ke hisab se chl ta hn. not depends on parent element size.
+
+             // *************************************************************//
+               rem	Relative to font-size of the root element.
+               vw	Relative to 1% of the width of the viewport.	
+               vh	Relative to 1% of the height of the viewport.
+               %	Relative to the parent element.
+
+
+ //********************************************//
+
+  . Font property :- Read from pdf
+                     1. => fontfamily
+                     2. => font-style
+                     3. => font-weight
+                     4. => font-size
+                     
+      
+   . text property  :-      
+
+ 
+  . ==> box model doubts.
